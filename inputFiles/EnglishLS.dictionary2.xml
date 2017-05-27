@@ -1,0 +1,38 @@
+<myroot>
+
+<lexelt item="add.v">
+<sense id="42601" source="ws" synset="add" gloss="to combine (something) with something else, often to increase the amount or number of the latter. I added herbs to the recipe ; He wants to add this stamp to his collection."/>
+<sense id="42602" source="ws" synset="add sum tally total" gloss="to find the total of (often fol. by up). Add up the numbers."/>
+<sense id="42603" source="ws" synset="add append supplement tack on" gloss="to say or write beyond what has been said or written."/>
+<sense id="42604" source="ws" synset="add total" gloss="to perform the mathematical operation of addition."/>
+<sense id="42605" source="ws" synset="add figure" gloss="to make the correct total or expected result (fol. by up). His quitting doesn't add up"/>
+<sense id="42606" source="ws" synset="add" gloss="to increase (fol. by to)."/>
+</lexelt>
+
+<lexelt item="bank.n">
+<sense id="bank%1:04:00::" source="wn" synset="bank " gloss="(a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning); the plane went into a steep bank)"/>
+<sense id="bank%1:06:00::" source="wn" synset="bank bank_building " gloss="(a building in which commercial banking is transacted; the bank is on the corner of Nassau and Witherspoon)"/>
+<sense id="bank%1:06:01::" source="wn" synset="savings_bank coin_bank money_box bank " gloss="(a container (usually with a slot in the top) for keeping money at home; the coin bank was empty)"/>
+<sense id="bank%1:14:00::" source="wn" synset="depository_financial_institution bank banking_concern banking_company " gloss="(a financial institution that accepts deposits and channels the money into lending activities; he cashed a check at the bank; that bank holds the mortgage on my home)"/>
+<sense id="bank%1:14:01::" source="wn" synset="bank " gloss="(an arrangement of similar objects in a row or in tiers; he operated a bank of switches)"/>
+<sense id="bank%1:17:00::" source="wn" synset="bank " gloss="(a long ridge or pile; a huge bank of earth)"/>
+<sense id="bank%1:17:01::" source="wn" synset="bank " gloss="(sloping land (especially the slope beside a body of water); they pulled the canoe up on the bank; he sat on the bank of the river and watched the currents)"/>
+<sense id="bank%1:17:02::" source="wn" synset="bank cant camber " gloss="(a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force)"/>
+<sense id="bank%1:21:00::" source="wn" synset="bank " gloss="(a supply or stock held in reserve for future use (especially in emergencies))"/>
+<sense id="bank%1:21:01::" source="wn" synset="bank " gloss="(the funds held by a gambling house or the dealer in some gambling games; he tried to break the bank at Monte Carlo)"/>
+</lexelt>
+
+<lexelt item="difficulty.n">
+<sense id="difficulty%1:04:00::" source="wn" synset="trouble difficulty " gloss="(an effort that is inconvenient; I went to a lot of trouble; he won without any trouble; had difficulty walking; finished the test only with great difficulty)"/>
+<sense id="difficulty%1:07:00::" source="wn" synset="difficulty difficultness " gloss="(the quality of being difficult; they agreed about the difficulty of the climb)"/>
+<sense id="difficulty%1:09:02::" source="wn" synset="difficulty " gloss="(a factor causing trouble in achieving a positive result or tending to produce a negative result; serious difficulties were encountered in obtaining a pure reagent)"/>
+<sense id="difficulty%1:26:00::" source="wn" synset="difficulty " gloss="(a situation or condition almost beyond one's ability to deal with and requiring great effort to bear or overcome: grappling with financial difficulties)"/>
+</lexelt>
+
+<lexelt item="expect.v">
+<sense id="1440301" source="ws" synset="expect communicate convey" gloss="to hope for or look forward to with some reason to believe in fulfillment. I expect him at noon; I expect success."/>
+<sense id="1440302" source="ws" synset="expect guess presume reckon" gloss="(informal) to guess or suppose. I expect you would like a drink of water after such hard exercise."/>
+<sense id="1440303" source="ws" synset="expect" gloss="to be pregnant. She is expecting."/>
+</lexelt>
+
+</myroot>
